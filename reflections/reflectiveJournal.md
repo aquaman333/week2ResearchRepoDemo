@@ -30,4 +30,4 @@ Programming pirnciples
 Git is free and open source software for distributed version control: tracking changes in any set of files of your source code history , usually used for coordinating work among programmers collaboratively developing source code during software development. Its goals include  data integrity and support for distributed, non-linear workflows
 
 ### What is GitHub?
-GitHub is an Internet hosting service for software development and version control using Git. It provides the distributed version control of Git plus access control, bug tracking, software feature requests, task management and continuous integrationr every project
+GitHub is an Internet hosting service for software development and version control using Git. It provides the distributed version control of Git plus access control, bug tracking, software feature requests, task management and continuous integration for every project
